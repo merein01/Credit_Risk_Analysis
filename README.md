@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 # Overview
-For this project, we used Python to create and analyze different machine learning models to predict credit risk. We oversamepled tbe data using the RandomOverSampler and SMOTE algorithms, undersampled the data using hte ClusterCentroids algorithm, used a combined approache of over and undersampling using the SMOTEENN algorithm, and compared two machine learning models, BalanedRandomForestClassifier and EasyEnsembleClassifier, to reduce bias. We evaluted the performance of each of these models and made a recommendation if they should be used to predict credit risk.
+For this project, we used Python to create and analyze different machine learning models to predict credit risk. We oversamepled tbe data using the RandomOverSampler and SMOTE algorithms, undersampled the data using hte ClusterCentroids algorithm, used a combined approache of over and undersampling using the SMOTEENN algorithm, and compared two machine learning models, BalanedRandomForestClassifier and EasyEnsembleClassifier, to reduce bias. We evaluated the performance of each of these models and made a recommendation if they should be used to predict credit risk.
 
 # Results
 SMOTEENN Model 
